@@ -1,0 +1,29 @@
+/* Write your code here. */
+.thumbnail {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0px;
+}
+
+.button {
+  opacity: 0.5;
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0px;
+}
+
+.thumbnail-container {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+.thumbnail-btn {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0px;
+}
